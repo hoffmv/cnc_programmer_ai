@@ -1,0 +1,4 @@
+Android Installation Instructions:
+1. Ensure the server is hosted and publicly reachable.
+2. Visit the URL in Chrome on your Android device.
+3. Tap '⋮' in the browser and select 'Add to Home Screen' to install as a PWA.

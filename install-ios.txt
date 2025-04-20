@@ -1,0 +1,4 @@
+iPhone Installation Instructions:
+1. Ensure the server is hosted and publicly reachable.
+2. Visit the URL in Safari on your iPhone.
+3. Tap the 'Share' icon → 'Add to Home Screen' to install the app.

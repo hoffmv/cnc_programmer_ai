@@ -1,0 +1,13 @@
+{
+  "project": "cnc_programmer_ai",
+  "package_created": "2025-04-17",
+  "phase": "alpha",
+  "built_by": "SteelCore",
+  "secure_origin": [
+    "SteelCore",
+    "BlueTool",
+    "IronSpark",
+    "Shipmate"
+  ],
+  "package_path": "deliverables\\cnc_programmer_ai\\alpha\\cnc_programmer_ai-alpha-package.zip"
+}
